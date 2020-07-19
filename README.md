@@ -1,5 +1,4 @@
-# Dell-OptiPlex-7050
-# OpenCore 0.6.0
+# Dell-OptiPlex-7050 OpenCore 0.6.0
 
 Dell OptiPlex 7050 Hackintosh
 
