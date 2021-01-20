@@ -1,4 +1,4 @@
-# Dell-OptiPlex-7050 OpenCore 0.6.0
+# Dell-OptiPlex-7050 OpenCore 0.6.5
 
 Dell OptiPlex 7050 Hackintosh
 
@@ -11,3 +11,5 @@ GPU     HD 630
 Audio  	Realtek ALC255
 
 Tested on macOS 10.15.6, use 27 layouts for sound (alcid = 27)
+
+You can try to put Big Sur
